@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Relativity Time</string>
+    <string name="speed_unity_ms">m/s</string>
+    <string name="speed_unity_kmh">km/h</string>
+</resources>
